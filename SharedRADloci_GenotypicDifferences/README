@@ -45,7 +45,8 @@ The genepop format is the same as the STACKS output, after populations module.
 
 Command example: perl GenotypicDifferencesMeter.pl -s shared_SNPs.txt -g1 shared_genepop_stacks.gen -g2 shared_genepop_meyer.gen -o ./results.txt
 
-REFERENCES
+######################### REFERENCES #########################
+
 Catchen J, Hohenlohe PA, Bassham S, Amores A, Cresko WA. Stacks: An analysis tool set for population genomics. Mol Ecol. 2013;22:3124–40. https://doi.org/10.1111/mec.12354.
 Catchen JM, Amores A, Hohenlohe P, Cresko W, Postlethwait JH. Stacks: Building and Genotyping Loci De Novo From Short-Read Sequences. G3. 2011;1:171–82. https://doi.org/10.1534/g3.111.000240.
 Wang S, Meyer E, McKay JK, Matz M V. 2b-RAD: a simple and flexible method for genome-wide genotyping. Nat Methods. 2012;9:808–10. https://doi.org/10.1038/nmeth.2023.
