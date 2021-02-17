@@ -1,3 +1,4 @@
 # USC-RAD-seq-scripts
 
-Perl scripts to compare shared SNP genotypes from two building-loci pipelines.
+All custom Perl scripts and file examples described here to obtain shared SNPs and
+compare genotypes from two building-loci pipelines.
